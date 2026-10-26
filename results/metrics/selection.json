@@ -1,0 +1,23 @@
+{
+  "criterion": "Sequential mean validation plug-in log probability: lambda then K",
+  "test_used_for_selection": false,
+  "models": {
+    "LDA-sklearn": {
+      "K": 30,
+      "lambda": 5.0
+    },
+    "LDA-Gibbs": {
+      "K": 30,
+      "lambda": 1.0
+    },
+    "AP-LDA": {
+      "K": 30,
+      "lambda": 20.0
+    },
+    "AP-shuffled": {
+      "K": 30,
+      "lambda": 1.0
+    }
+  },
+  "frozen_at_utc": "2026-10-26T03:10:01.627524+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "config_sha256": "a166094a829efbd4c2f764de5f4023063ca0fbc5fc73e423fadc87a5fef50b7a",
+  "started_at_utc": "2026-10-26T03:09:59.816171+00:00",
+  "python": "3.12.14 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:37:13) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "versions": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "sklearn": "1.5.1",
+    "numba": "0.60.0",
+    "matplotlib": "3.9.2",
+    "pandas": "2.2.2",
+    "yaml": "6.0.1"
+  },
+  "thread_policy": "BLAS limited to one thread; sklearn n_jobs=1; Numba serial kernels"
+}

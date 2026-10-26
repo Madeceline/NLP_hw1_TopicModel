@@ -1,0 +1,21 @@
+{
+  "key": "AP-shuffled_K5_lambda1_n32_s29",
+  "model": "AP-shuffled",
+  "K": 5,
+  "lambda": 1.0,
+  "seed": 29,
+  "documents_per_author": 32,
+  "validation_log_probability": -6.78234916683121,
+  "validation_perplexity": 882.1385826332682,
+  "npmi": 0.1587608774917261,
+  "diversity": 0.9,
+  "train_seconds": 1.213202999999794,
+  "diagnostics": {
+    "retained_samples": 20,
+    "n_tokens": 65302,
+    "entropy_ess": 3.5035335171018334,
+    "max_normalization_error": 3.3306690738754696e-16,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\AP-shuffled_K5_lambda1_n32_s29.npz"
+}

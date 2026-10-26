@@ -1,0 +1,12 @@
+digraph G {
+      graph [rankdir=LR, compound=true, bgcolor="white"];
+      node [shape=circle, fontname="Arial"];
+      beta [label="β", shape=plaintext];
+      subgraph cluster_topics {label="K topics"; phi [label="φ_k"];}
+      beta -> phi;
+      subgraph cluster_docs {label="D documents"; theta [label="θ_d"];
+        subgraph cluster_words {label="N_d word positions"; z [label="z_dn"]; w [label="w_dn", style=filled, fillcolor=lightgray]; z -> w;}
+        theta -> z;
+      }
+      phi -> w;
+    alpha [label="α",shape=plaintext]; alpha -> theta; }

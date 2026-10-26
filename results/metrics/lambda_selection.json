@@ -1,0 +1,6 @@
+{
+  "LDA-sklearn": 5.0,
+  "LDA-Gibbs": 1.0,
+  "AP-LDA": 20.0,
+  "AP-shuffled": 1.0
+}

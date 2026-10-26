@@ -1,0 +1,21 @@
+{
+  "key": "LDA-Gibbs_K10_lambda5_n32_s11",
+  "model": "LDA-Gibbs",
+  "K": 10,
+  "lambda": 5.0,
+  "seed": 11,
+  "documents_per_author": 32,
+  "validation_log_probability": -6.664293489574568,
+  "validation_perplexity": 783.9094291037054,
+  "npmi": 0.1876077228755595,
+  "diversity": 0.88,
+  "train_seconds": 1.2621142999996664,
+  "diagnostics": {
+    "retained_samples": 20,
+    "n_tokens": 65302,
+    "entropy_ess": 120.0,
+    "max_normalization_error": 2.220446049250313e-16,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\LDA-Gibbs_K10_lambda5_n32_s11.npz"
+}

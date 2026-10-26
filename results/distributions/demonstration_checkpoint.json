@@ -1,0 +1,7 @@
+{
+  "model": "AP-LDA",
+  "K": 10,
+  "lambda": 10.0,
+  "seed": 11,
+  "selection": "Predeclared matched setting and first seed; not selected by test scores."
+}

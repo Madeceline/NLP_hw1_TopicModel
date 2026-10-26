@@ -1,0 +1,19 @@
+{
+  "key": "LDA-sklearn_K10_lambda10_n12_s47",
+  "model": "LDA-sklearn",
+  "K": 10,
+  "lambda": 10.0,
+  "seed": 47,
+  "documents_per_author": 12,
+  "validation_log_probability": -6.8890266780745835,
+  "validation_perplexity": 981.4456895701086,
+  "npmi": 0.10868251987993507,
+  "diversity": 0.85,
+  "train_seconds": 3.4503360999997312,
+  "diagnostics": {
+    "sklearn_iterations": 60,
+    "training_seconds": 3.4006546000000526,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\LDA-sklearn_K10_lambda10_n12_s47.npz"
+}

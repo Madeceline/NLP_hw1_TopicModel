@@ -1,0 +1,16 @@
+digraph G {
+      graph [rankdir=LR, compound=true, bgcolor="white"];
+      node [shape=circle, fontname="Arial"];
+      beta [label="β", shape=plaintext];
+      subgraph cluster_topics {label="K topics"; phi [label="φ_k"];}
+      beta -> phi;
+      subgraph cluster_docs {label="D documents"; theta [label="θ_d"];
+        subgraph cluster_words {label="N_d word positions"; z [label="z_dn"]; w [label="w_dn", style=filled, fillcolor=lightgray]; z -> w;}
+        theta -> z;
+      }
+      phi -> w;
+    gamma [label="γ", shape=plaintext]; lambda [label="λ",shape=plaintext];
+        a [label="a(d)",style=filled,fillcolor=lightgray];
+        subgraph cluster_authors {label="A authors"; pi [label="π_a"];}
+        gamma -> pi; pi -> theta [label="select π_a(d)"]; lambda -> theta; a -> theta; }
+        

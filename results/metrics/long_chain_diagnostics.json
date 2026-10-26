@@ -1,0 +1,34 @@
+{
+  "design": "Validation-only diagnostic, 10x primary chain length; not used to select test settings.",
+  "entropy_split_rhat": 1.8226567645272775,
+  "runs": [
+    {
+      "seed": 11,
+      "n_iter": 2400,
+      "burn_in": 1200,
+      "thin": 40,
+      "entropy_ess": 18.1978758090722,
+      "validation_log_probability": -6.601224752748589,
+      "train_seconds": 10.648904499999844
+    },
+    {
+      "seed": 29,
+      "n_iter": 2400,
+      "burn_in": 1200,
+      "thin": 40,
+      "entropy_ess": 84.27981189090906,
+      "validation_log_probability": -6.591343175738168,
+      "train_seconds": 12.399840399999448
+    },
+    {
+      "seed": 47,
+      "n_iter": 2400,
+      "burn_in": 1200,
+      "thin": 40,
+      "entropy_ess": 9.774483768162584,
+      "validation_log_probability": -6.578297569678598,
+      "train_seconds": 10.793437799999992
+    }
+  ],
+  "limitation": "Even a good scalar R-hat cannot establish full topic posterior mixing."
+}
