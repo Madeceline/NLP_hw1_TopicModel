@@ -30,8 +30,6 @@ python -m scripts.train --topics 10 --lambda-author 10 --output results/custom_t
 # 对一个已训练模型做统一文档完成评价
 python -m scripts.evaluate --checkpoint results/custom_training/model.npz
 
-# 按当前环境从头执行 Notebook，并保存全部输出
-python -m scripts.execute_notebook
 ```
 
 命令均在项目根目录运行。实验脚本可自动复用相同配置的 checkpoint 与指标；`--no-resume` 重训。改变 YAML 时用 `--output results_new` 指定新的**项目产物根目录**，该目录会包含自己的 data/results/reports；不允许把不同配置混写进同一 results 目录。脚本只读取测试词来评分，不用测试集选择配置。
