@@ -1,0 +1,10 @@
+{
+  "chinese_fonts": [
+    "Microsoft YaHei",
+    "SimHei"
+  ],
+  "plate_backends": [
+    "Matplotlib fallback; Graphviz dot executable unavailable; DOT sources included",
+    "Matplotlib fallback; Graphviz dot executable unavailable; DOT sources included"
+  ]
+}

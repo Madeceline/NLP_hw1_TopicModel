@@ -1,0 +1,29 @@
+dataset:
+  n_authors: 12
+  train_per_author: 32
+  validation_per_author: 12
+  test_per_author: 20
+  split_seed: 20261026
+  max_features: 1800
+  min_df: 3
+  max_df: 0.65
+  max_tokens: 220
+experiment:
+  seeds: [11, 29, 47]
+  n_topics: 10
+  lambda_author: 10.0
+  lambda_grid: [1, 5, 10, 20, 50, 100]
+  topic_grid: [5, 10, 15, 20, 30]
+  documents_per_author_grid: [4, 12, 32]
+  gamma: 0.5
+  beta: 0.01
+  n_iter: 240
+  burn_in: 120
+  thin: 6
+  baseline_max_iter: 60
+  foldin_iter: 100
+  top_m: 10
+  observation_fractions: [0.1, 0.5]
+  primary_observation_fraction: 0.5
+  # Grid selection is validation-only; test scoring happens after selection.json.
+  selected_by: mean_validation_log_probability

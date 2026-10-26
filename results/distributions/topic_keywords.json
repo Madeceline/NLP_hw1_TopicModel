@@ -1,0 +1,622 @@
+{
+  "T0": [
+    {
+      "word": "cargo",
+      "probability": 0.027298139192429027
+    },
+    {
+      "word": "toronto",
+      "probability": 0.026491428723936505
+    },
+    {
+      "word": "gold",
+      "probability": 0.025351611505298723
+    },
+    {
+      "word": "stocks",
+      "probability": 0.019586485064376536
+    },
+    {
+      "word": "canada",
+      "probability": 0.01904454067797217
+    },
+    {
+      "word": "air",
+      "probability": 0.01797242875770045
+    },
+    {
+      "word": "index",
+      "probability": 0.01625560134885262
+    },
+    {
+      "word": "shares",
+      "probability": 0.01602831606994406
+    },
+    {
+      "word": "points",
+      "probability": 0.014594598092163106
+    },
+    {
+      "word": "airlines",
+      "probability": 0.014447329399082743
+    },
+    {
+      "word": "million",
+      "probability": 0.013205314867184601
+    },
+    {
+      "word": "canadian",
+      "probability": 0.012061395154692657
+    },
+    {
+      "word": "pacific",
+      "probability": 0.011825583445173678
+    },
+    {
+      "word": "highlands",
+      "probability": 0.011802819052230889
+    },
+    {
+      "word": "airport",
+      "probability": 0.010757672125476766
+    }
+  ],
+  "T1": [
+    {
+      "word": "percent",
+      "probability": 0.04552307217141631
+    },
+    {
+      "word": "million",
+      "probability": 0.043314729956901867
+    },
+    {
+      "word": "sales",
+      "probability": 0.020011410898808847
+    },
+    {
+      "word": "quarter",
+      "probability": 0.01802978779146859
+    },
+    {
+      "word": "profit",
+      "probability": 0.014920883968894108
+    },
+    {
+      "word": "ford",
+      "probability": 0.014898145558567694
+    },
+    {
+      "word": "analysts",
+      "probability": 0.014325585581422847
+    },
+    {
+      "word": "company",
+      "probability": 0.013673121753429603
+    },
+    {
+      "word": "half",
+      "probability": 0.013364899235296268
+    },
+    {
+      "word": "net",
+      "probability": 0.010792685558329226
+    },
+    {
+      "word": "expected",
+      "probability": 0.010767690789182634
+    },
+    {
+      "word": "profits",
+      "probability": 0.010502204855229071
+    },
+    {
+      "word": "second",
+      "probability": 0.010396696437140036
+    },
+    {
+      "word": "strong",
+      "probability": 0.010068576518207554
+    },
+    {
+      "word": "market",
+      "probability": 0.009792835113987786
+    }
+  ],
+  "T2": [
+    {
+      "word": "million",
+      "probability": 0.04300841178378095
+    },
+    {
+      "word": "pounds",
+      "probability": 0.0395235915507631
+    },
+    {
+      "word": "television",
+      "probability": 0.025204390164127004
+    },
+    {
+      "word": "british",
+      "probability": 0.02503114995335039
+    },
+    {
+      "word": "microsoft",
+      "probability": 0.02205641555689568
+    },
+    {
+      "word": "united",
+      "probability": 0.017866221638014525
+    },
+    {
+      "word": "pay",
+      "probability": 0.01651668508223296
+    },
+    {
+      "word": "britain",
+      "probability": 0.012882384691391932
+    },
+    {
+      "word": "windows",
+      "probability": 0.012554493584146172
+    },
+    {
+      "word": "digital",
+      "probability": 0.012506022173571774
+    },
+    {
+      "word": "company",
+      "probability": 0.012415188511939535
+    },
+    {
+      "word": "operating",
+      "probability": 0.010782632413215271
+    },
+    {
+      "word": "bskyb",
+      "probability": 0.010728612458302216
+    },
+    {
+      "word": "london",
+      "probability": 0.00992126190134478
+    },
+    {
+      "word": "media",
+      "probability": 0.009676026744341615
+    }
+  ],
+  "T3": [
+    {
+      "word": "news",
+      "probability": 0.06061958689524906
+    },
+    {
+      "word": "corp",
+      "probability": 0.03242312306943262
+    },
+    {
+      "word": "australian",
+      "probability": 0.029492692524554977
+    },
+    {
+      "word": "murdoch",
+      "probability": 0.026720016151843468
+    },
+    {
+      "word": "sydney",
+      "probability": 0.024449362627844317
+    },
+    {
+      "word": "media",
+      "probability": 0.017818580133811282
+    },
+    {
+      "word": "australia",
+      "probability": 0.016598693675462094
+    },
+    {
+      "word": "profit",
+      "probability": 0.01572227334583353
+    },
+    {
+      "word": "analyst",
+      "probability": 0.014640021682033766
+    },
+    {
+      "word": "transport",
+      "probability": 0.011790719357193101
+    },
+    {
+      "word": "told",
+      "probability": 0.011765793546672064
+    },
+    {
+      "word": "newspaper",
+      "probability": 0.011209611049869863
+    },
+    {
+      "word": "asia",
+      "probability": 0.010991003082945847
+    },
+    {
+      "word": "growth",
+      "probability": 0.01040865430693734
+    },
+    {
+      "word": "mci",
+      "probability": 0.010077960864860265
+    }
+  ],
+  "T4": [
+    {
+      "word": "percent",
+      "probability": 0.0319826536327923
+    },
+    {
+      "word": "bank",
+      "probability": 0.02952067687754235
+    },
+    {
+      "word": "market",
+      "probability": 0.026242818396970312
+    },
+    {
+      "word": "billion",
+      "probability": 0.022013391791008967
+    },
+    {
+      "word": "stock",
+      "probability": 0.018059740835192604
+    },
+    {
+      "word": "share",
+      "probability": 0.017091218798953634
+    },
+    {
+      "word": "analysts",
+      "probability": 0.01699131434054995
+    },
+    {
+      "word": "shares",
+      "probability": 0.016716708180916674
+    },
+    {
+      "word": "group",
+      "probability": 0.013592856764273117
+    },
+    {
+      "word": "deal",
+      "probability": 0.013236550250464368
+    },
+    {
+      "word": "companies",
+      "probability": 0.012228411715907151
+    },
+    {
+      "word": "bid",
+      "probability": 0.011044857031537316
+    },
+    {
+      "word": "financial",
+      "probability": 0.010634974374750078
+    },
+    {
+      "word": "offer",
+      "probability": 0.010608614400066467
+    },
+    {
+      "word": "banks",
+      "probability": 0.01011514868009987
+    }
+  ],
+  "T5": [
+    {
+      "word": "china",
+      "probability": 0.034372124497888935
+    },
+    {
+      "word": "fund",
+      "probability": 0.021590193129367826
+    },
+    {
+      "word": "foreign",
+      "probability": 0.018859052923676425
+    },
+    {
+      "word": "state",
+      "probability": 0.017290115374995488
+    },
+    {
+      "word": "states",
+      "probability": 0.017168010706443845
+    },
+    {
+      "word": "funds",
+      "probability": 0.016818467871937796
+    },
+    {
+      "word": "government",
+      "probability": 0.01509103933734957
+    },
+    {
+      "word": "trade",
+      "probability": 0.014334054282743054
+    },
+    {
+      "word": "united",
+      "probability": 0.012842869082203875
+    },
+    {
+      "word": "people",
+      "probability": 0.0127569196103203
+    },
+    {
+      "word": "beijing",
+      "probability": 0.01267136598383103
+    },
+    {
+      "word": "official",
+      "probability": 0.012136579819347243
+    },
+    {
+      "word": "domestic",
+      "probability": 0.011086988837065633
+    },
+    {
+      "word": "economic",
+      "probability": 0.010961252481120396
+    },
+    {
+      "word": "investment",
+      "probability": 0.009499060470291419
+    }
+  ],
+  "T6": [
+    {
+      "word": "internet",
+      "probability": 0.03509088550151081
+    },
+    {
+      "word": "companies",
+      "probability": 0.01716978671938327
+    },
+    {
+      "word": "computer",
+      "probability": 0.01658859430204945
+    },
+    {
+      "word": "banks",
+      "probability": 0.01597206224441238
+    },
+    {
+      "word": "software",
+      "probability": 0.01245588163839229
+    },
+    {
+      "word": "access",
+      "probability": 0.01129506632846326
+    },
+    {
+      "word": "service",
+      "probability": 0.011131080126588653
+    },
+    {
+      "word": "congress",
+      "probability": 0.011112891344924335
+    },
+    {
+      "word": "rules",
+      "probability": 0.010957960081022438
+    },
+    {
+      "word": "online",
+      "probability": 0.010789438784589645
+    },
+    {
+      "word": "court",
+      "probability": 0.010440714283953906
+    },
+    {
+      "word": "use",
+      "probability": 0.0100512477675021
+    },
+    {
+      "word": "commission",
+      "probability": 0.008994936802099524
+    },
+    {
+      "word": "federal",
+      "probability": 0.008791633751594561
+    },
+    {
+      "word": "products",
+      "probability": 0.008712402629954919
+    }
+  ],
+  "T7": [
+    {
+      "word": "hong",
+      "probability": 0.09211927887084644
+    },
+    {
+      "word": "kong",
+      "probability": 0.09101334158190862
+    },
+    {
+      "word": "china",
+      "probability": 0.04255583460287419
+    },
+    {
+      "word": "conrail",
+      "probability": 0.03724711413128724
+    },
+    {
+      "word": "csx",
+      "probability": 0.026885914049657084
+    },
+    {
+      "word": "southern",
+      "probability": 0.023763141835871186
+    },
+    {
+      "word": "norfolk",
+      "probability": 0.018751034220157045
+    },
+    {
+      "word": "chinese",
+      "probability": 0.018704800165378763
+    },
+    {
+      "word": "asia",
+      "probability": 0.017199887459524284
+    },
+    {
+      "word": "jardine",
+      "probability": 0.009991644046252166
+    },
+    {
+      "word": "fleming",
+      "probability": 0.009789497188446282
+    },
+    {
+      "word": "newsroom",
+      "probability": 0.008825115375595799
+    },
+    {
+      "word": "thailand",
+      "probability": 0.008806399240392832
+    },
+    {
+      "word": "deng",
+      "probability": 0.008683805798144631
+    },
+    {
+      "word": "policy",
+      "probability": 0.008538886209290197
+    }
+  ],
+  "T8": [
+    {
+      "word": "company",
+      "probability": 0.029408777761938128
+    },
+    {
+      "word": "business",
+      "probability": 0.01377780295455946
+    },
+    {
+      "word": "time",
+      "probability": 0.013545246596513258
+    },
+    {
+      "word": "chairman",
+      "probability": 0.011355557445914304
+    },
+    {
+      "word": "shareholders",
+      "probability": 0.011183498573191952
+    },
+    {
+      "word": "amp",
+      "probability": 0.010917755277709836
+    },
+    {
+      "word": "plans",
+      "probability": 0.010855235657203402
+    },
+    {
+      "word": "think",
+      "probability": 0.010314920494403473
+    },
+    {
+      "word": "executive",
+      "probability": 0.009992397616014042
+    },
+    {
+      "word": "going",
+      "probability": 0.009046666836273639
+    },
+    {
+      "word": "management",
+      "probability": 0.008691665896820851
+    },
+    {
+      "word": "board",
+      "probability": 0.008546682682788097
+    },
+    {
+      "word": "chief",
+      "probability": 0.008362028420253995
+    },
+    {
+      "word": "based",
+      "probability": 0.008327167308295197
+    },
+    {
+      "word": "industry",
+      "probability": 0.00795127980051272
+    }
+  ],
+  "T9": [
+    {
+      "word": "boeing",
+      "probability": 0.02080738553643329
+    },
+    {
+      "word": "industry",
+      "probability": 0.019399175536808533
+    },
+    {
+      "word": "business",
+      "probability": 0.013302776554675377
+    },
+    {
+      "word": "years",
+      "probability": 0.012768436801785608
+    },
+    {
+      "word": "customers",
+      "probability": 0.011605038462103343
+    },
+    {
+      "word": "workers",
+      "probability": 0.011309996718666681
+    },
+    {
+      "word": "long",
+      "probability": 0.010009178115667598
+    },
+    {
+      "word": "chief",
+      "probability": 0.009513442211918624
+    },
+    {
+      "word": "union",
+      "probability": 0.008869708370089161
+    },
+    {
+      "word": "week",
+      "probability": 0.008075046359225983
+    },
+    {
+      "word": "airbus",
+      "probability": 0.008015817539621953
+    },
+    {
+      "word": "set",
+      "probability": 0.007018302955106917
+    },
+    {
+      "word": "president",
+      "probability": 0.0069957077620359616
+    },
+    {
+      "word": "executive",
+      "probability": 0.006972505119278079
+    },
+    {
+      "word": "commercial",
+      "probability": 0.0069008722914100235
+    }
+  ]
+}

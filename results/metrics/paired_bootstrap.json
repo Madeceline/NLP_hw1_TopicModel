@@ -1,0 +1,62 @@
+[
+  {
+    "fraction": 0.1,
+    "comparator": "LDA-Gibbs",
+    "delta_log_probability": 0.07367680855754362,
+    "author_cluster_bootstrap_95_percent_interval": [
+      0.04727529686350387,
+      0.09934228718025165
+    ],
+    "method": "Average seeds per document, resample 12 author clusters with replacement; exploratory, no multiplicity correction."
+  },
+  {
+    "fraction": 0.1,
+    "comparator": "LDA-sklearn",
+    "delta_log_probability": 0.08075460345409563,
+    "author_cluster_bootstrap_95_percent_interval": [
+      0.05412995267566137,
+      0.10880821048684179
+    ],
+    "method": "Average seeds per document, resample 12 author clusters with replacement; exploratory, no multiplicity correction."
+  },
+  {
+    "fraction": 0.1,
+    "comparator": "AP-shuffled",
+    "delta_log_probability": 0.04880985652818035,
+    "author_cluster_bootstrap_95_percent_interval": [
+      0.019652099180330177,
+      0.07756642632383957
+    ],
+    "method": "Average seeds per document, resample 12 author clusters with replacement; exploratory, no multiplicity correction."
+  },
+  {
+    "fraction": 0.5,
+    "comparator": "LDA-Gibbs",
+    "delta_log_probability": 0.032067946432768696,
+    "author_cluster_bootstrap_95_percent_interval": [
+      0.011250686126743226,
+      0.053512413630566365
+    ],
+    "method": "Average seeds per document, resample 12 author clusters with replacement; exploratory, no multiplicity correction."
+  },
+  {
+    "fraction": 0.5,
+    "comparator": "LDA-sklearn",
+    "delta_log_probability": 0.03836087814855262,
+    "author_cluster_bootstrap_95_percent_interval": [
+      0.019621954579773924,
+      0.057802070223533154
+    ],
+    "method": "Average seeds per document, resample 12 author clusters with replacement; exploratory, no multiplicity correction."
+  },
+  {
+    "fraction": 0.5,
+    "comparator": "AP-shuffled",
+    "delta_log_probability": 0.009880287252114197,
+    "author_cluster_bootstrap_95_percent_interval": [
+      -0.018748585681159734,
+      0.03656571954963131
+    ],
+    "method": "Average seeds per document, resample 12 author clusters with replacement; exploratory, no multiplicity correction."
+  }
+]

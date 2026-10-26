@@ -1,0 +1,21 @@
+{
+  "key": "LDA-Gibbs_K15_lambda1_n32_s47",
+  "model": "LDA-Gibbs",
+  "K": 15,
+  "lambda": 1.0,
+  "seed": 47,
+  "documents_per_author": 32,
+  "validation_log_probability": -6.57465265712003,
+  "validation_perplexity": 716.6966416377845,
+  "npmi": 0.2253507856949436,
+  "diversity": 0.8466666666666667,
+  "train_seconds": 1.207824200000232,
+  "diagnostics": {
+    "retained_samples": 20,
+    "n_tokens": 65302,
+    "entropy_ess": 120.0,
+    "max_normalization_error": 4.440892098500626e-16,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\LDA-Gibbs_K15_lambda1_n32_s47.npz"
+}

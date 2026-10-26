@@ -1,0 +1,19 @@
+{
+  "key": "LDA-sklearn_K5_lambda5_n32_s29",
+  "model": "LDA-sklearn",
+  "K": 5,
+  "lambda": 5.0,
+  "seed": 29,
+  "documents_per_author": 32,
+  "validation_log_probability": -6.780520242535923,
+  "validation_perplexity": 880.5266924095854,
+  "npmi": 0.07422218872057226,
+  "diversity": 0.86,
+  "train_seconds": 8.729311300000063,
+  "diagnostics": {
+    "sklearn_iterations": 60,
+    "training_seconds": 8.63626609999983,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\LDA-sklearn_K5_lambda5_n32_s29.npz"
+}

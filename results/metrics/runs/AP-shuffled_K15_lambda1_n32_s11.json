@@ -1,0 +1,21 @@
+{
+  "key": "AP-shuffled_K15_lambda1_n32_s11",
+  "model": "AP-shuffled",
+  "K": 15,
+  "lambda": 1.0,
+  "seed": 11,
+  "documents_per_author": 32,
+  "validation_log_probability": -6.568233893716996,
+  "validation_perplexity": 712.1110680632753,
+  "npmi": 0.22397290126285174,
+  "diversity": 0.8333333333333334,
+  "train_seconds": 1.509548999999879,
+  "diagnostics": {
+    "retained_samples": 20,
+    "n_tokens": 65302,
+    "entropy_ess": 3.9529785872465486,
+    "max_normalization_error": 3.3306690738754696e-16,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\AP-shuffled_K15_lambda1_n32_s11.npz"
+}

@@ -1,0 +1,21 @@
+{
+  "key": "AP-LDA_K10_lambda100_n32_s29",
+  "model": "AP-LDA",
+  "K": 10,
+  "lambda": 100.0,
+  "seed": 29,
+  "documents_per_author": 32,
+  "validation_log_probability": -6.669528494430267,
+  "validation_perplexity": 788.023959167274,
+  "npmi": 0.23265090405713132,
+  "diversity": 0.91,
+  "train_seconds": 1.7510571000002528,
+  "diagnostics": {
+    "retained_samples": 20,
+    "n_tokens": 65302,
+    "entropy_ess": 3.267681737309113,
+    "max_normalization_error": 4.440892098500626e-16,
+    "all_finite": true
+  },
+  "checkpoint": "results\\checkpoints\\AP-LDA_K10_lambda100_n32_s29.npz"
+}

@@ -1,0 +1,55 @@
+{
+  "label": "SYNTHETIC ONLY",
+  "corpus_seed": 123,
+  "rows": [
+    {
+      "seed": 11,
+      "shuffled": false,
+      "author_mae": 0.011865533092555343,
+      "phi_mae": 0.0013173123018382236,
+      "dominant_topic_accuracy": 1.0,
+      "entropy_ess": 30.19150786434497
+    },
+    {
+      "seed": 11,
+      "shuffled": true,
+      "author_mae": 0.22012471341745468,
+      "phi_mae": 0.0024795550536612985,
+      "dominant_topic_accuracy": 0.8333333333333334,
+      "entropy_ess": 22.43215939027681
+    },
+    {
+      "seed": 29,
+      "shuffled": false,
+      "author_mae": 0.006275038850303276,
+      "phi_mae": 0.001441944890642682,
+      "dominant_topic_accuracy": 1.0,
+      "entropy_ess": 33.867626307609214
+    },
+    {
+      "seed": 29,
+      "shuffled": true,
+      "author_mae": 0.23824416596721398,
+      "phi_mae": 0.0025056454215664605,
+      "dominant_topic_accuracy": 0.6666666666666666,
+      "entropy_ess": 32.175740561716154
+    },
+    {
+      "seed": 47,
+      "shuffled": false,
+      "author_mae": 0.01169931030702576,
+      "phi_mae": 0.0011839022304169341,
+      "dominant_topic_accuracy": 1.0,
+      "entropy_ess": 71.69566397475407
+    },
+    {
+      "seed": 47,
+      "shuffled": true,
+      "author_mae": 0.2591583030721343,
+      "phi_mae": 0.0023913780924839155,
+      "dominant_topic_accuracy": 0.6666666666666666,
+      "entropy_ess": 44.312217618685466
+    }
+  ],
+  "design": "Exact AP-LDA generator; 6 authors x 24 documents x 90 tokens; K=3; lambda=12; gamma=.5; beta=.05"
+}

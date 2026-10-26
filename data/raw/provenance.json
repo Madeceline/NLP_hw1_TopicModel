@@ -1,0 +1,9 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/217/reuter+50+50.zip",
+  "landing_page": "https://archive.ics.uci.edu/dataset/217/reuter+50+50",
+  "citation": "Liu, Z. (2006). Reuter_50_50. DOI: 10.24432/C5DS42",
+  "license_on_uci": "CC BY 4.0",
+  "documents": 5000,
+  "sha256": "d1de4af0f439c9ffd097dc30ea15fb22cb015e1cbfde986bb5da0622904dbd0d",
+  "verified_at_utc": "2026-10-26T03:39:39.056707+00:00"
+}

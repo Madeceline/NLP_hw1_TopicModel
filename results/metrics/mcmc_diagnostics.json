@@ -1,0 +1,27 @@
+{
+  "entropy_split_rhat": 3.920805179607356,
+  "warning": "Scalar entropy diagnostics do not establish topic/label mixing or full posterior convergence.",
+  "chains": [
+    {
+      "retained_samples": 20,
+      "n_tokens": 65302,
+      "entropy_ess": 3.3150393565707468,
+      "max_normalization_error": 4.440892098500626e-16,
+      "all_finite": true
+    },
+    {
+      "retained_samples": 20,
+      "n_tokens": 65302,
+      "entropy_ess": 3.6352844244697553,
+      "max_normalization_error": 3.3306690738754696e-16,
+      "all_finite": true
+    },
+    {
+      "retained_samples": 20,
+      "n_tokens": 65302,
+      "entropy_ess": 3.1029836878368804,
+      "max_normalization_error": 3.3306690738754696e-16,
+      "all_finite": true
+    }
+  ]
+}
