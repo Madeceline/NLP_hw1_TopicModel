@@ -1,0 +1,9 @@
+[project]
+name = "author-prior-lda"
+version = "0.1.0"
+description = "Reproducible author-prior LDA with CRT-augmented Gibbs inference"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

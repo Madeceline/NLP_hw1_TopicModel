@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.nbc
+*.nbi
+.venv/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store

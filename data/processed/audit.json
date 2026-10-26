@@ -1,0 +1,102 @@
+{
+  "dataset": "UCI Reuter_50_50",
+  "authors": [
+    "AaronPressman",
+    "BernardHickey",
+    "JimGilchrist",
+    "JoeOrtiz",
+    "KeithWeir",
+    "KevinMorrison",
+    "LydiaZajc",
+    "MartinWolk",
+    "RobinSidel",
+    "SarahDavison",
+    "ToddNissen",
+    "WilliamKazer"
+  ],
+  "vocabulary_size": 1800,
+  "discarded_exact_duplicates_in_selected_authors": 5,
+  "splits": {
+    "train": {
+      "documents": 384,
+      "tokens_after_cap": 65302,
+      "tokens_in_vocabulary_before_cap": 68562,
+      "oov_rate": 0.2657585298464306,
+      "documents_per_author": {
+        "AaronPressman": 32,
+        "BernardHickey": 32,
+        "JimGilchrist": 32,
+        "JoeOrtiz": 32,
+        "KeithWeir": 32,
+        "KevinMorrison": 32,
+        "LydiaZajc": 32,
+        "MartinWolk": 32,
+        "RobinSidel": 32,
+        "SarahDavison": 32,
+        "ToddNissen": 32,
+        "WilliamKazer": 32
+      }
+    },
+    "validation": {
+      "documents": 144,
+      "tokens_after_cap": 24267,
+      "tokens_in_vocabulary_before_cap": 26184,
+      "oov_rate": 0.286830995505924,
+      "documents_per_author": {
+        "AaronPressman": 12,
+        "BernardHickey": 12,
+        "JimGilchrist": 12,
+        "JoeOrtiz": 12,
+        "KeithWeir": 12,
+        "KevinMorrison": 12,
+        "LydiaZajc": 12,
+        "MartinWolk": 12,
+        "RobinSidel": 12,
+        "SarahDavison": 12,
+        "ToddNissen": 12,
+        "WilliamKazer": 12
+      }
+    },
+    "test": {
+      "documents": 240,
+      "tokens_after_cap": 38480,
+      "tokens_in_vocabulary_before_cap": 39805,
+      "oov_rate": 0.3218100966043651,
+      "documents_per_author": {
+        "AaronPressman": 20,
+        "BernardHickey": 20,
+        "JimGilchrist": 20,
+        "JoeOrtiz": 20,
+        "KeithWeir": 20,
+        "KevinMorrison": 20,
+        "LydiaZajc": 20,
+        "MartinWolk": 20,
+        "RobinSidel": 20,
+        "SarahDavison": 20,
+        "ToddNissen": 20,
+        "WilliamKazer": 20
+      }
+    }
+  },
+  "test_train_tfidf_max_similarity_quantiles": [
+    0.4542037084458107,
+    0.669719310406949,
+    0.886445486539817,
+    0.9158277419889259
+  ],
+  "test_documents_similarity_above_095": 0,
+  "single_author_policy": "Use corpus's provided single reporter folder; no coauthor attribution inferred.",
+  "selection_policy": "Seeded random authors; official test held out; validation from official training only.",
+  "token_cap_policy": "Uniform subsample without replacement of in-vocabulary word positions, independently per document.",
+  "config": {
+    "n_authors": 12,
+    "train_per_author": 32,
+    "validation_per_author": 12,
+    "test_per_author": 20,
+    "split_seed": 20261026,
+    "max_features": 1800,
+    "min_df": 3,
+    "max_df": 0.65,
+    "max_tokens": 220
+  }
+}
